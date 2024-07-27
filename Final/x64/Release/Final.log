@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Gamer\Desktop\IC\3er cuatri\BD\Final\Final\main.cpp(7,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código
+  0 of 151 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Final.vcxproj -> C:\Users\Gamer\Desktop\IC\3er cuatri\BD\Final\Final\x64\Release\Final.exe
